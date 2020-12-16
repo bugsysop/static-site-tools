@@ -1,3 +1,4 @@
-# static-site-workflow-tools
+# Static Site Tools
 
-A collection of scripts to mage content and process for static site
+A collection of scripts to manage content and process for static site
+
